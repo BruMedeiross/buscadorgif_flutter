@@ -2,6 +2,6 @@
 
 Buscador de gif utilza a consulta de uma API publica.
 
-## Usos
+## API - https://api.giphy.com
 
 #http #api #compartilhamento
